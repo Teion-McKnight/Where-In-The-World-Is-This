@@ -1,0 +1,41 @@
+header {
+  background-color: darkturquoise;
+  border: 2px solid slateblue;
+  border-radius: 25px;
+  margin: 0 10% 3em 10%;
+}
+
+.main-logo {
+  font-size: 3.6em;
+  color: rgb(87, 49, 147);
+  margin: 0 25px 0 25px;
+}
+
+body {
+  background-color: mediumturquoise;
+  color:darkslateblue;
+}
+
+form {
+  caret-color: deeppink;
+}
+
+input::placeholder {
+  text-align: center;
+}
+
+.store-user-butt {
+  color: deeppink;
+  background-color: darkslateblue;
+  border-color: lightslategray;
+}
+
+.check-butt {
+  color: deeppink;
+  background-color: darkslateblue;
+  border-color: lightslategray;
+}
+
+footer {
+
+}
